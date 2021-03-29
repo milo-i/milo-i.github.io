@@ -1,0 +1,48 @@
+body {
+ margin: 0 auto;
+ max-width: 700px;
+ font-family: Arial, Helvetica, sans-serif;
+ background-color: lightgray;
+
+}
+
+.heading {
+ text-align: center;
+ color: indigo;
+}
+
+#main-heading {
+ color: black;
+}
+
+table {
+ /* border: 2px solid indigo; */
+ border-collapse: separate;
+ border-spacing: 3px;
+}
+
+table td {
+ padding: 0.2rem;
+ /* border: 1px solid rgba(241, 137, 39, 0.9); */
+  border-bottom: 1px solid rgb(233, 12, 12);
+
+}
+
+table th {
+ padding: 0.2rem;
+ /* border: 1px solid rgba(241, 137, 39, 0.9); */
+}
+
+.table-heading {
+ background-color: rgba(233, 12, 12, 0.6);
+}
+
+.tag-style {
+ background-color: lightyellow;
+ font-size: 0.9em;
+ text-align: center;
+}
+
+.name-style {
+ text-align: center;
+}
